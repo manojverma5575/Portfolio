@@ -1,0 +1,81 @@
+{
+  "name": "Manoj Verma",
+  "role": "Java Developer",
+  "summary": "Junior Java Developer with strong foundation in Java, OOP concepts, multithreading, and database connectivity. Experienced in desktop applications using Java Swing and JDBC. Passionate about building robust and scalable applications.",
+  "contact": {
+    "email": "manojverma5575@gmail.com",
+    "phone": "+91 8850107407",
+    "linkedin": "https://www.linkedin.com/in/manoj-verma-680a1b263/",
+    "github": "https://github.com/manojverma5575"
+  },
+  "skills": {
+    "Programming Languages": ["Java", "JavaScript", "Python"],
+    "Web Development": ["HTML", "CSS", "ReactJS", "ExpressJS", "NodeJS"],
+    "Databases": ["SQL", "PL/SQL", "MongoDB"],
+    "Platforms & Tools": ["VS Code", "NetBeans", "IntelliJ IDEA", "Eclipse"]
+  },
+  "education": [
+    { "degree": "Bachelor of Science in Computer Science", "institution": "Mumbai University", "period": "2022 – 2025", "type": "graduation" },
+    { "degree": "Higher Secondary Certificate (HSC)", "institution": "Mumbai University", "period": "2022", "type": "hsc" },
+    { "degree": "Secondary School Certificate (SSC)", "institution": "Mumbai University", "period": "2020", "type": "ssc" }
+  ],
+  "certifications": [
+    { "title": "Game Development for TIC-TAC-TOE using Java", "issuer": "Institute Certification", "icon": "🎮" },
+    { "title": "Bright Future Foundation Certification", "issuer": "Bright Future Foundation", "icon": "🌟" },
+    { "title": "Advanced Cyber Security", "issuer": "Microsoft", "icon": "🛡️" },
+    { "title": "Java Programming", "issuer": "QSpiders Institute", "icon": "☕" },
+    { "title": "SQL Fundamentals", "issuer": "QSpiders Institute", "icon": "🗄️" }
+  ],
+  "projects": [
+    {
+      "id": 1, "title": "Automated Teller Machine (ATM)", "description": "Simulates real ATM functionalities with complete banking interface built in Java.",
+      "features": ["Account creation", "Deposit & Withdrawal", "Mini statement", "Balance check", "PIN change"],
+      "tech": ["Java", "Java Swing", "JDBC", "SQL"], "featured": true, "category": "Desktop Application", "color": "#2563EB"
+    },
+    {
+      "id": 2, "title": "Aura Virtual Assistant", "description": "AI-based virtual assistant for user interaction with focus on productivity and responsive UI.",
+      "features": ["AI-based interaction", "Task automation", "Responsive UI", "Productivity tools"],
+      "tech": ["Java", "Python", "JavaScript"], "featured": true, "category": "AI Application", "color": "#7C3AED"
+    },
+    {
+      "id": 3, "title": "Library Management System", "description": "Full-featured library system for book inventory and member management.",
+      "features": ["Book catalog", "Member management", "Issue & return tracking"],
+      "tech": ["Java", "JDBC", "SQL"], "featured": false, "category": "Management System", "color": "#059669"
+    },
+    {
+      "id": 4, "title": "Hotel Management System", "description": "Room booking and hotel operations management application.",
+      "features": ["Room booking", "Guest management", "Billing"],
+      "tech": ["Java", "SQL"], "featured": false, "category": "Management System", "color": "#059669"
+    },
+    {
+      "id": 5, "title": "Banking Management System", "description": "Comprehensive banking operations system with account management.",
+      "features": ["Account management", "Transactions", "Statements"],
+      "tech": ["Java", "JDBC", "SQL"], "featured": false, "category": "Management System", "color": "#059669"
+    },
+    {
+      "id": 6, "title": "Hospital Management System", "description": "Patient and hospital operations management with appointment scheduling.",
+      "features": ["Patient records", "Appointment scheduling", "Doctor management"],
+      "tech": ["Java", "SQL"], "featured": false, "category": "Management System", "color": "#DC2626"
+    },
+    {
+      "id": 7, "title": "Car Management System", "description": "Vehicle inventory and management system for car dealerships.",
+      "features": ["Car inventory", "Sales tracking", "Customer management"],
+      "tech": ["Java", "SQL"], "featured": false, "category": "Management System", "color": "#D97706"
+    },
+    {
+      "id": 8, "title": "Student Grading System", "description": "Comprehensive system to manage and calculate student grades efficiently.",
+      "features": ["Grade calculation", "Student records", "Report generation"],
+      "tech": ["Java", "SQL"], "featured": false, "category": "Management System", "color": "#0891B2"
+    },
+    {
+      "id": 9, "title": "Temperature Conversion Tool", "description": "Utility app for converting between temperature scales with clean UI.",
+      "features": ["Celsius/Fahrenheit/Kelvin", "Real-time conversion", "History log"],
+      "tech": ["Java", "Java Swing"], "featured": false, "category": "Utility", "color": "#2563EB"
+    },
+    {
+      "id": 10, "title": "Number Guessing Game", "description": "Interactive number guessing game with difficulty levels and score tracking.",
+      "features": ["Multiple difficulty levels", "Score tracking", "Hints system"],
+      "tech": ["Java"], "featured": false, "category": "Game", "color": "#7C3AED"
+    }
+  ]
+}
